@@ -394,6 +394,9 @@ void Display() // Function or helper declaration
 	glCallList(FaceDL); // OpenGL/GLUT function call
 	glCallList(SkeletonDL); // OpenGL/GLUT function call
 
+	glCallList(TreeList);
+	DrawFallingList(nowSecs);     // NEW
+
 	glDisable(GL_LIGHTING); // OpenGL/GLUT function call
 
 	const GLfloat* C = LightColors[CurrentLightColor]; // Constant definition

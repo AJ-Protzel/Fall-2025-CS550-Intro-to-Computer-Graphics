@@ -1,0 +1,26 @@
+﻿  sample.cpp
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(398,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(921,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(974,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(992,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(997,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(1048,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(1053,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(1057,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(1125,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(1126,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(1144,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(1145,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(1163,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(1164,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(1192,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(1205,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(1206,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(1224,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(1225,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(1312,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(1313,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(1330,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\sample.cpp(1331,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\Debug\Sample.exe

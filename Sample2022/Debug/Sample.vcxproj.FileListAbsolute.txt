@@ -1,4 +1,0 @@
-Y:\CS550\Sample2022\Debug\Sample.exe
-C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\w3\Sample2022\Debug\Sample.exe
-C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\w4\Sample2022\Debug\Sample.exe
-C:\School\Fall-2025-CS550-Intro-to-Computer-Graphics\Sample2022\Debug\Sample.exe
